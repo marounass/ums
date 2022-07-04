@@ -3675,11 +3675,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MAROUN\\Desktop\\InMind\\week 1\\Web App\\UMS\\UMS\\UMS.csproj",
+      "projectUniqueName": "C:\\Users\\MAROUN\\Desktop\\InMind\\week 2\\UMS\\UMS\\UMS.csproj",
       "projectName": "UMS",
-      "projectPath": "C:\\Users\\MAROUN\\Desktop\\InMind\\week 1\\Web App\\UMS\\UMS\\UMS.csproj",
+      "projectPath": "C:\\Users\\MAROUN\\Desktop\\InMind\\week 2\\UMS\\UMS\\UMS.csproj",
       "packagesPath": "C:\\Users\\MAROUN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MAROUN\\Desktop\\InMind\\week 1\\Web App\\UMS\\UMS\\obj\\",
+      "outputPath": "C:\\Users\\MAROUN\\Desktop\\InMind\\week 2\\UMS\\UMS\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

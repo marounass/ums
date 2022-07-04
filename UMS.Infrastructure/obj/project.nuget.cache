@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VDLSuRcinIOaPkMmWGmWKRd0105XQLWcM9j5C4uDaXbFEe3MsgZiyqsfLXAgeMJAi8KrlilloeMp55EhHYT5/A==",
+  "dgSpecHash": "1tlMh4O5EuqLYDdYIvF6LroZA9DL9/tX4uFgc5QCseMQSMTQapZyVDV+5fEfNOZ8q1G2/JHJK2D1v65M3HcJNg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\MAROUN\\Desktop\\InMind\\week 1\\Web App\\UMS\\UMS.Infrastructure\\UMS.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\MAROUN\\Desktop\\InMind\\week 2\\UMS\\UMS.Infrastructure\\UMS.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MAROUN\\.nuget\\packages\\azure.core\\1.20.0\\azure.core.1.20.0.nupkg.sha512",
     "C:\\Users\\MAROUN\\.nuget\\packages\\azure.identity\\1.5.0\\azure.identity.1.5.0.nupkg.sha512",

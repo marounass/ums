@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VgELwJ6jFZ2u4k0DovQuUYgwSwqc30Jgg+Y0ljNER5Z7YDKBpXpLOzHiNDJxIJdo/YKqBsNm7FoN2HdF1USy+w==",
+  "dgSpecHash": "FHBvmoUtyu8KThcepUmn+Ujuk/K1vWszMvqeblwpgVjXh0+ztgq7s0M6swog8mLPMWHb2DPFV+3GEJCaA8U1MQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\MAROUN\\Desktop\\InMind\\week 1\\Web App\\UMS\\UMS.Infrastructure.Abstraction\\UMS.Infrastructure.Abstraction.csproj",
+  "projectFilePath": "C:\\Users\\MAROUN\\Desktop\\InMind\\week 2\\UMS\\UMS.Infrastructure.Abstraction\\UMS.Infrastructure.Abstraction.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MAROUN\\.nuget\\packages\\azure.core\\1.20.0\\azure.core.1.20.0.nupkg.sha512",
     "C:\\Users\\MAROUN\\.nuget\\packages\\azure.identity\\1.5.0\\azure.identity.1.5.0.nupkg.sha512",

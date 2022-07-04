@@ -3506,11 +3506,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MAROUN\\Desktop\\InMind\\week 1\\Web App\\UMS\\UMS.Persistence\\UMS.Persistence.csproj",
+      "projectUniqueName": "C:\\Users\\MAROUN\\Desktop\\InMind\\week 2\\UMS\\UMS.Persistence\\UMS.Persistence.csproj",
       "projectName": "UMS.Persistence",
-      "projectPath": "C:\\Users\\MAROUN\\Desktop\\InMind\\week 1\\Web App\\UMS\\UMS.Persistence\\UMS.Persistence.csproj",
+      "projectPath": "C:\\Users\\MAROUN\\Desktop\\InMind\\week 2\\UMS\\UMS.Persistence\\UMS.Persistence.csproj",
       "packagesPath": "C:\\Users\\MAROUN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MAROUN\\Desktop\\InMind\\week 1\\Web App\\UMS\\UMS.Persistence\\obj\\",
+      "outputPath": "C:\\Users\\MAROUN\\Desktop\\InMind\\week 2\\UMS\\UMS.Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3530,8 +3530,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\MAROUN\\Desktop\\InMind\\week 1\\Web App\\UMS\\UMS.Domain\\UMS.Domain.csproj": {
-              "projectPath": "C:\\Users\\MAROUN\\Desktop\\InMind\\week 1\\Web App\\UMS\\UMS.Domain\\UMS.Domain.csproj"
+            "C:\\Users\\MAROUN\\Desktop\\InMind\\week 2\\UMS\\UMS.Domain\\UMS.Domain.csproj": {
+              "projectPath": "C:\\Users\\MAROUN\\Desktop\\InMind\\week 2\\UMS\\UMS.Domain\\UMS.Domain.csproj"
             }
           }
         }
