@@ -1,0 +1,14 @@
+C:\Users\MAROUN\Desktop\InMind\week 1\Web App\UMS\PCP.Persistence\bin\Debug\net6.0\PCP.Persistence.deps.json
+C:\Users\MAROUN\Desktop\InMind\week 1\Web App\UMS\PCP.Persistence\bin\Debug\net6.0\PCP.Persistence.dll
+C:\Users\MAROUN\Desktop\InMind\week 1\Web App\UMS\PCP.Persistence\bin\Debug\net6.0\PCP.Persistence.pdb
+C:\Users\MAROUN\Desktop\InMind\week 1\Web App\UMS\PCP.Persistence\obj\Debug\net6.0\PCP.Persistence.csproj.AssemblyReference.cache
+C:\Users\MAROUN\Desktop\InMind\week 1\Web App\UMS\PCP.Persistence\obj\Debug\net6.0\PCP.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAROUN\Desktop\InMind\week 1\Web App\UMS\PCP.Persistence\obj\Debug\net6.0\PCP.Persistence.AssemblyInfoInputs.cache
+C:\Users\MAROUN\Desktop\InMind\week 1\Web App\UMS\PCP.Persistence\obj\Debug\net6.0\PCP.Persistence.AssemblyInfo.cs
+C:\Users\MAROUN\Desktop\InMind\week 1\Web App\UMS\PCP.Persistence\obj\Debug\net6.0\PCP.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\MAROUN\Desktop\InMind\week 1\Web App\UMS\PCP.Persistence\obj\Debug\net6.0\PCP.Persistence.dll
+C:\Users\MAROUN\Desktop\InMind\week 1\Web App\UMS\PCP.Persistence\obj\Debug\net6.0\refint\PCP.Persistence.dll
+C:\Users\MAROUN\Desktop\InMind\week 1\Web App\UMS\PCP.Persistence\obj\Debug\net6.0\PCP.Persistence.pdb
+C:\Users\MAROUN\Desktop\InMind\week 1\Web App\UMS\PCP.Persistence\obj\Debug\net6.0\ref\PCP.Persistence.dll
+C:\Users\MAROUN\Desktop\InMind\week 1\Web App\UMS\PCP.Persistence\bin\Debug\net6.0\PCP.Persistence.runtimeconfig.json
+C:\Users\MAROUN\Desktop\InMind\week 1\Web App\UMS\PCP.Persistence\obj\Debug\net6.0\PCP.Persistence.genruntimeconfig.cache
